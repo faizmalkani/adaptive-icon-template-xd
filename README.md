@@ -1,6 +1,6 @@
 # Adaptive Icon Template for Adobe XD
 
-![Adaptive Icon Template Preview](/adaptive_icon_template_xd.png?raw=true)
+![Adaptive Icon Template Preview](/adaptive_icon_template_xd.PNG?raw=true)
 
 Android O introduces a new app icon format: adaptive icons. Adaptive icons can make devices more coherent by unifying the shape of all app icons and opening the door to interesting visual effects. Templates for Affinity and Sketch were available, so I made one for Adobe XD as well. Further reading: 
 
